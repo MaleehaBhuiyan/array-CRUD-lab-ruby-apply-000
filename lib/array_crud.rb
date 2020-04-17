@@ -6,7 +6,7 @@ def create_an_array
   ["violet","indigo","magenta","pink"]
 end
 
-def add_element_to_end_of_array(create_an_array, "arrays!)
+def add_element_to_end_of_array(create_an_array, "arrays!")
   create_an_array<<"arrays!"
 end
 
