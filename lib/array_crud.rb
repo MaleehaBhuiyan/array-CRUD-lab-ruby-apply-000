@@ -23,6 +23,7 @@ def remove_element_from_start_of_array(create_an_empty_array)
 end
 
 def retrieve_element_from_index(create_an_empty_array, 1)
+  create_an_array=["I", "am", "learning", "about"]
   create_an_empty_array[1]
 end
 
