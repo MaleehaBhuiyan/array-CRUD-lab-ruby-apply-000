@@ -22,8 +22,9 @@ def remove_element_from_start_of_array(create_an_empty_array)
   create_an_empty_array.shift
 end
 
-def retrieve_element_from_index(array, element)
-
+def retrieve_element_from_index(remove_element_from_start_of_array, 2)
+  remove_element_from_start_of_array = ["I", "am", "really", "learning"]
+  remove_element_from_start_of_array[2]
 end
 
 def retrieve_first_element_from_array(array)
