@@ -23,7 +23,7 @@ def remove_element_from_start_of_array(create_an_empty_array)
 end
 
 def retrieve_element_from_index(create_an_empty_array, 2)
-  create_an_empty_array[2]
+  [2]
 end
 
 def retrieve_first_element_from_array(array)
