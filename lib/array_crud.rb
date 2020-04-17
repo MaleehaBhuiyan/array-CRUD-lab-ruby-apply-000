@@ -3,11 +3,11 @@ def create_an_empty_array
 end
 
 def create_an_array
-  ["violet","indigo","magenta","pink"]
+
 end
 
-def add_element_to_end_of_array(create_an_array, array)
-  create_an_array<<"array"
+def add_element_to_end_of_array(array,element)
+  
 end
 
 def add_element_to_start_of_array(array, element)
