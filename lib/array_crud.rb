@@ -6,7 +6,7 @@ def create_an_array
   create_an_array=["Hi", "my", "name", "is"]
 end
 
-def add_element_to_end_of_array(create_an_array,"is")
+def add_element_to_end_of_array(create_an_array,"Maleeha")
   create_an_array<<"Maleeha"
 end
 
