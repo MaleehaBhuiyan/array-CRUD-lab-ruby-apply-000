@@ -30,6 +30,6 @@ def retrieve_first_element_from_array(add_element_to_start_of_array)
   add_element_to_start_of_array[0]
 end
 
-def retrieve_last_element_from_array(array)
-
+def retrieve_last_element_from_array(add_element_to_end_of_array)
+  add_element_to_end_of_array[4]
 end
