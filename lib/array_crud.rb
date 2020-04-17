@@ -31,5 +31,5 @@ def retrieve_first_element_from_array(add_element_to_start_of_array)
 end
 
 def retrieve_last_element_from_array(add_element_to_end_of_array)
-  add_element_to_end_of_array[4]
+  add_element_to_end_of_array[3]
 end
